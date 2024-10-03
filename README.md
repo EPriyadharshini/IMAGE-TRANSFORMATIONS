@@ -7,20 +7,26 @@ To perform image transformation such as Translation, Scaling, Shearing, Reflecti
 Anaconda - Python 3.7
 
 ## Algorithm:
-### Step1:
-<br>
 
-### Step2:
-<br>
 
-### Step3:
-<br>
+Step1:
+Import the necessary libraries and read the original image and save it as a image variable.
 
-### Step4:
-<br>
+Step2:
+Translate the image using a function warpPerpective()
 
-### Step5:
-<br>
+Step3:
+Scale the image by multiplying the rows and columns with a float value.
+
+Step4:
+Shear the image in both the rows and columns.
+
+Step5:
+Find the reflection of the image.
+
+Step6:
+Rotate the image using angle function.
+
 
 ## Program:
 ```
