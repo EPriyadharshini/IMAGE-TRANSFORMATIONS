@@ -27,11 +27,10 @@ Rotate the image using angle function.
 
 
 ## Program:
-```
 
 Developed By:PRIYADHARSHINI E
 Register Number:212223230159
-
+```
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
@@ -47,7 +46,6 @@ plt.title("Original Image")
 plt.axis('off')
 
 
-```
 i)Image Translation
 
 rows, cols, _ = image.shape
@@ -100,7 +98,6 @@ plt.show()
 
 ```
 
-
 ## Output:
 
 ![image](https://github.com/user-attachments/assets/d5b09b72-631f-4355-9d1c-3d699fb1b5c4)
@@ -113,7 +110,7 @@ plt.show()
 ### ii) Image Scaling &shering
 
 
-![image](https://github.com/user-attachments/assets/9bcd8bc5-3d1c-4c3a-a0ae-97cab22b6d1a)
+
 
 ![image](https://github.com/user-attachments/assets/b7ebe89f-d40e-4747-9cd9-f74a9975d41e)# IMAGE-TRANSFORMATIONS
 
